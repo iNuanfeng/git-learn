@@ -10,3 +10,8 @@ function dev_fun() {
   const name = 'dev'
   console.log('dev_fun')
 }
+
+function dev_fun2() {
+  const name = 'dev2'
+  console.log('dev_fun2')
+}
