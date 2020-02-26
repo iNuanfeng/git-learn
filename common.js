@@ -11,6 +11,11 @@ function branch1_fun() {
   console.log('branch1_fun')
 }
 
+function branch1_fun2() {
+  const name = 'branch2'
+  console.log('branch2_fun')
+}
+
 function dev_fun() {
   const name = 'dev'
   console.log('dev_fun')
